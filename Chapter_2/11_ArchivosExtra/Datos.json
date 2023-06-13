@@ -1,0 +1,11 @@
+{
+"Name": "David Doe",                                      
+"Age": 25,                                                
+"Hobby": ["basketball"],                                  
+"Family": 
+{
+    "father": "John Doe", 
+    "mother": "Marry Doe"
+},
+"Married": true
+}                                          
